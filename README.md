@@ -1,2 +1,2 @@
 # prompt-library
-AI, Content and SEO toolkit for marketers. More updates coming up!
+AI + SEO Toolkit > Scalable prompts for content optimization, structured data, and marketing automation.
