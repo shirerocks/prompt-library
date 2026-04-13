@@ -1,2 +1,5 @@
-Write a blog intro and meta description for "5 Ways Small Businesses Can Improve Website Conversion Rates", including keywords "CRO", "website conversion", "small business". 
-Output as JSON: { "title": "...", "meta_description": "...", "intro": "..." }
+{
+  "title": "5 Ways Small Businesses Can Improve Website Conversion Rates",
+  "meta_description": "Boost your small business sales by mastering CRO. Learn 5 proven ways to improve website conversion and turn visitors into loyal customers starting today.",
+  "intro": "Is your traffic high but your sales low? For many small business owners, website conversion is a frustrating puzzle. Without a solid CRO strategy, you're leaving money on the table. Here are 5 actionable ways to fix your funnel."
+}
